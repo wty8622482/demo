@@ -1,0 +1,19 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1567250184994" stop="1567250203624">
+  <name>test_login</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1567250184994" status="passed" stop="1567250203624">
+      <description>反向用列方法</description>
+      <name>TestLogin.test_login_fail[test_login_017-18221628089 -8622482b-\u9519\u8bef-\u767b\u5f55\u5bc6\u7801\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8724-MainThread"/>
+        <label name="host" value="TR-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

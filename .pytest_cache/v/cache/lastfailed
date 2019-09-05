@@ -1,0 +1,6 @@
+{
+  "scripts/test_login.py::TestLogin::()::test_login_fail[test_login_013-13211110000 -8622482wtygb-\\u4e0d\\u5b58\\u5728-\\u6b64\\u7528\\u6237\\u4e0d\\u5b58\\u57281]": true,
+  "scripts/test_login.py::TestLogin::()::test_login_fail[test_login_013-13211110000 -8622482wtygb-\\u4e0d\\u5b58\\u57281-\\u6b64\\u7528\\u6237\\u4e0d\\u5b58\\u5728]": true,
+  "scripts/test_login.py::TestLogin::()::test_login_fail[test_login_017-18221628089 -8622482b-\\u9519\\u8bef-\\u5bc6\\u7801\\u9519\\u8bef]": true,
+  "scripts/test_login.py::TestLogin::()::test_login_suc[test_login_001-18221628089-8622482wtygb1-\\u6211\\u7684\\u6536\\u85cf]": true
+}
